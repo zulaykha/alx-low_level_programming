@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - I dont really understand the size of various computer types
- * Return 0(Success)
+ * main - Entry point
+ * Return: 0(Success)
  */
 
 int main(void)
