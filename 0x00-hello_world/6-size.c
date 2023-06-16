@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return: always 0(success)
+ *
+ * Description: uding sizeof to print the size of various types
+ *
+ * Return: Always 0(Success)
  */
 int main(void)
 {
